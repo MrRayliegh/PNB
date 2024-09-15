@@ -21,5 +21,6 @@ return {
     11805,  -- ! S2
     349740, -- D3IVI5420TEST
     827372, -- kruta
-    843228 -- Aizen
+    843228, -- Aizen
+    194408 -- markus liaaa26
 }
