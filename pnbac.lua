@@ -23,5 +23,6 @@ return {
     827372, -- kruta
     843228, -- Aizen
     194408, -- markus liaaa26
-    351203 -- zaini(ZMH ROAD)
+    351203, -- zaini(ZMH ROAD)
+    11070 -- DuchDayduniaexpres
 }
