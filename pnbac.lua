@@ -26,5 +26,6 @@ return {
     351203, -- zaini(ZMH ROAD)
     11070, -- DuchDayduniaexpres
     537643, -- mhike
-    775293 -- mhike2
+    775293, -- mhike2
+    774286, 764886 -- erfa2
 }
