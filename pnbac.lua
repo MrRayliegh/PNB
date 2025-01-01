@@ -28,5 +28,6 @@ return {
     537643, -- mhike
     775293, -- mhike2
     774286, 764886, -- erfa2
-    496448 -- meldis
+    496448, -- meldis
+    427627 -- ceres
 }
