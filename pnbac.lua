@@ -31,5 +31,6 @@ return {
     496448, -- meldis
     427627,293501, -- ceres2
     35445, -- zaxeerr
-    490194 -- ALGELO/MATH
+    490194, -- ALGELO/MATH
+    669275-- 1kyy
 }
