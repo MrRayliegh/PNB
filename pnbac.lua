@@ -34,5 +34,6 @@ return {
     490194, -- ALGELO/MATH
     669275,853690,-- 1kyy 1&2
     908144,909859,  -- MAMUD21 / MAX 2
-    327619 -- A star
+    327619, -- A star
+    334894 -- Carl
 }
