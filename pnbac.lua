@@ -36,5 +36,6 @@ return {
     908144,909859,  -- MAMUD21 / MAX 2
     327619, -- A star
     334894, -- Carl
-    606085 -- pakimo
+    606085, -- pakimo
+    671348 -- tamsy
 }
