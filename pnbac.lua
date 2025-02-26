@@ -37,5 +37,5 @@ return {
     327619, -- A star
     334894, -- Carl
     606085, -- pakimo
-    671348 -- tamsy
+    671348,705193 -- tamsy
 }
