@@ -38,5 +38,6 @@ return {
     334894, -- Carl
     606085, -- pakimo
     671348,705193, -- tamsy
-    919197 -- RAD
+    919197, -- RAD
+    917023 -- sikretpearson
 }
