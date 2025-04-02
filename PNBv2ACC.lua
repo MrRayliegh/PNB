@@ -7,6 +7,7 @@ return {
   918401,917023, -- Mark max 2 uid
   921194, -- Jo
   699504, -- IGOD
-  554244 -- teryaki
+  554244, -- teryaki
+  641013 -- DappaAja
   
 }
