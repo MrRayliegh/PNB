@@ -39,5 +39,6 @@ return {
     606085, -- pakimo
     671348,705193, -- tamsy
     919197, -- RAD
-    917023 -- sikretpearson
+    917023, -- sikretpearson
+    934078 -- Lj Ashcroft
 }
