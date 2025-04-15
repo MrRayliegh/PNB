@@ -40,5 +40,5 @@ return {
     671348,705193, -- tamsy
     919197, -- RAD
     917023, -- sikretpearson
-    934078 -- Lj Ashcroft
+    944864,941139 -- Lj Ashcroft MAX 2
 }
