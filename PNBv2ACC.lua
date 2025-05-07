@@ -15,6 +15,7 @@ return {
   944952, -- whisnu
   459527,916767, -- maww MAX
   944361, -- george droyd
-  251105 -- RickTheBard
+  251105, -- RickTheBard
+  952633 -- 1CEs
   
 }
