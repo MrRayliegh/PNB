@@ -17,6 +17,7 @@ return {
   944361, -- george droyd
   251105, -- RickTheBard
   952633,890454, -- 1CEs MAX
-  934788 -- daffa
+  934788, -- daffa
+  899317 -- devilmalf
   
 }
