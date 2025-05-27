@@ -19,5 +19,6 @@ return {
   952633,890454, -- 1CEs MAX
   934788, -- daffa
   899317, -- devilmalf
-  942703, 944044 -- kAAWRL MAX
+  942703, 944044, -- kAAWRL MAX
+  757740,229649 -- Krisna
 }
