@@ -20,5 +20,6 @@ return {
   934788, -- daffa
   899317, -- devilmalf
   942703, 944044, -- kAAWRL MAX
-  757740,229649 -- Krisna
+  757740,229649, -- Krisna
+  537643,775293 -- kael
 }
